@@ -13,6 +13,15 @@
     padding: 10px 100px;
    
 }
+.galeria{
+    float:left;
+    width:200px;
+    height:170px;
+    margin:4px;
+}
+.fondo{
+    background-image: url("fondo.jpg");
+}
 .cabecera
 {
     background-color: darkseagreen;
