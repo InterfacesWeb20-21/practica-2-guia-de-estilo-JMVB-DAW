@@ -63,3 +63,43 @@
     
     width: 40%;
 }
+.loading-lang{
+    opacity: 0;
+    text-align: left;
+    width: 27%;
+  }
+  .loading-lang.show{
+    opacity: 1;
+  }
+  
+  .cambio_fila {
+    clear:both;
+margin-bottom:2px;
+  }
+
+  .galeria{
+    float:left;
+    width:200px;
+    height:150px;
+    margin:10px;
+  }
+
+  .textoH{
+      font-size: 150%;
+  }
+
+  .gif{
+    float: right;
+    width:500px;
+    height:450px;
+    margin:4px;
+    
+  }
+  .gif2{
+    float:left;
+    width:500px;
+    height:450px;
+    margin:4px;
+    
+  }
+
